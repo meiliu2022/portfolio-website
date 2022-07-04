@@ -12,7 +12,10 @@ export const ProjectList = [
     gif: Proj1g,
     skills: "Angular, Spring Boot, MySQL",
     description:"A full stack e-commerce application with Angular front-end and Spring Boot back-end, using REST APIs and MySQL database. Okta Sign-in Widget is used to authenticate users while the Stripe API is applied for credit card payments.",
-    learningPoints:" This project takes up a lot of time and energy. I learn a lot about how to integrate backend with frontend as well a lot about user security, authentication, etc.",
+    learningPoints:" This project takes up a lot of time and energy. I learn a lot about how to integrate backend with frontend as well a lot about user security, authentication, etc. ",
+    website1: "Click ",
+    website2: "here",
+    website3: " to view the E-Commerce Website.",
     codeUrl: "https://github.com/meiliu2022/ecommence-website"
   },
   {

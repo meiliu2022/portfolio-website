@@ -16,7 +16,8 @@ function ProjectDisplay() {
           <div className="project"> 
             <div className="text-content">
               <span>{project.name}</span>
-              <p>{project.description}{project.learningPoints}</p>
+              <p>{project.description}{project.learningPoints} 
+                {project.website1}<a href="https://meiliu.info/ecommerce">{project.website2}</a>{project.website3}</p>
               <div className="project-links">
                 <div className="text"><a href={project.codeUrl}>View Code</a></div>
                 <div className="media"><a href={project.codeUrl}><GitHub /></a></div>
