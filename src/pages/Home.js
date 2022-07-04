@@ -31,14 +31,13 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span> 
-              ReactJS, Angular, Redux, HTML, CSS, Flutter, NPM,
-              BootStrap, MaterialUI
+              React, Angular, Redux, HTML, CSS, Flutter, BootStrap, Material UI, Android
             </span>
           </li>
           <li className="item">
             <h2> Back-End</h2>
             <span>
-              NodeJS, Java Spring, ExpressJS, MySQL, MongoDB, MS SQL, Sqflite
+              Node.js, SpringBoot, Express.js, MySQL, MongoDB, MS SQL Server, Sqflite
             </span>
           </li>
           <li className="item">
