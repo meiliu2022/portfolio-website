@@ -12,9 +12,7 @@ function Home() {
           <p>Mei Liu</p>  
         </div>
         <div className="prompt"> 
-              A passionate coder and a new gradudate who loves learning new techniques and technologies,
-              coupled with great enthuisation of creating different projects and solving problems. As of now,
-              I am a fresher and I am currently looking for a suitable job to start my career of software developer.
+        A passionate coder and a new graduate who loves learning new techniques and technologies, coupled with great enthuisation of creating different projects and solving problems. As of now, I am a fresher and I am currently looking for a suitable job to start my career.
               
         </div>
 
@@ -31,13 +29,13 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span> 
-              React, Angular, Redux, HTML, CSS, Flutter, BootStrap, Material UI, Android
+              React, Angular, Redux, HTML, CSS, PowerBI, Flutter, BootStrap, Material UI, Android
             </span>
           </li>
           <li className="item">
             <h2> Back-End</h2>
             <span>
-              Node.js, SpringBoot, Express.js, MySQL, MongoDB, MS SQL Server, Sqflite
+              Node.js, SpringBoot, Express.js, MySQL, Teradata, MS SQL Server, MongoDB, Sqflite
             </span>
           </li>
           <li className="item">
